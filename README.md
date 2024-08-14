@@ -8,7 +8,6 @@ To use this repository, clone it to your local machine and install the required 
 
 ```bash
 git clone https://github.com/Yaythish2462/color_identification.git
-pip install -r requirements.txt
 ```
 
 ## Usage
